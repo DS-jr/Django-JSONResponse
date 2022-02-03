@@ -1,1 +1,1 @@
-# Django-JsonResponse
+# Django-JSONResponse
